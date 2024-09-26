@@ -1,0 +1,26 @@
+.countryA {
+  background-color: rgba(241, 165, 215, 0.309);
+}
+.countryB {
+  background-color: rgba(168, 168, 227, 0.322);
+}
+.countryC {
+  background-color: rgba(145, 222, 199, 0.316);
+}
+.countryD {
+  background-color: rgba(224, 222, 134, 0.306);
+}
+.countryA,
+.countryB,
+.countryC,
+.countryD {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px;
+  height: auto;
+  border-radius: 20px;
+  width: 49%;
+  text-align: center;
+  color: rgb(47, 47, 47);
+}

@@ -1,0 +1,18 @@
+.tournament {
+  padding: 20px;
+  border: 0.5px solid grey;
+  border-radius: 10px;
+  .h1 {
+    padding: 10px;
+    height: 90px;
+  }
+  h2 {
+    color: brown;
+    margin-bottom: 10px;
+  }
+  .events {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+}
